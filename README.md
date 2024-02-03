@@ -1,16 +1,14 @@
 ### Hi there 👋👋 
 ### I'm Luis 
 Welcome to my Github page! I am a Computer Science Engineer💻
-
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love practicing sports, not everything is coding.
 
 ### 👨‍💻 Languages and Tools:
-
+-->
 📫Connect with me:
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/luismdp05)
