@@ -3,7 +3,7 @@
 Welcome to my Github page! I am a Computer Science Engineer💻 
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/luismdp05)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luismdp05/))
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luismdp05/)
 
 <!--
 **luismdp05/luismdp05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
