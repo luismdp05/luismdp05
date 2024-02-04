@@ -1,6 +1,8 @@
 ### Hi there 👋👋 
 ### I'm Luis 
-<img style="height:auto;" alt="" src="https://avatars.githubusercontent.com/u/84306608?v=4" width="260" height="260" class="avatar avatar-user width-full border color-bg-default">
+<p align="center" width="300">
+   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/84306608?v=4" />
+</p>
 Welcome to my Github page! I am a Computer Science Engineer💻
 <!--
 - 🔭 I’m currently working on ...
@@ -40,7 +42,6 @@ Modificar
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
-
 -->
 📫Connect with me:
 
