@@ -1,8 +1,5 @@
 ### Hi there 👋👋 
 ### I'm Luis 
-<p align="center" width="300">
-   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/84306608?v=4" />
-</p>
 Welcome to my Github page! I am a Computer Science Engineer💻
 <!--
 - 🔭 I’m currently working on ...
