@@ -2,7 +2,6 @@
 ### I'm Luis 
 Welcome to my Github page! I am a Computer Science Engineer💻
 
-![snake gif](https://github.com/sudoshivesh/sudoshivesh/blob/output/github-contribution-grid-snake.gif)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
