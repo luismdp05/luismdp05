@@ -10,6 +10,9 @@ Welcome to my Github page! I am a Computer Science Engineer💻
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
