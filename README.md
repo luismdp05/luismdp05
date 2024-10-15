@@ -10,7 +10,7 @@ Welcome to my Github page! I am a Computer Science Engineer💻
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
-![Odoo](https://img.shields.io/badge/-Odoo-000000?style=flat&logo=odoo)
+![Odoo](https://img.shields.io/badge/-Odoo-604058?style=flat&logo=odoo)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)
 
 <!--
