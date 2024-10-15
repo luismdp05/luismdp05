@@ -1,5 +1,5 @@
 ### Hi there 👋👋 
-### I'm Luis 
+### I'm Luis Miguel
 Welcome to my Github page! I am a Computer Science Engineer💻
 
 <!--
@@ -9,13 +9,15 @@ Welcome to my Github page! I am a Computer Science Engineer💻
 - ⚡ Fun fact: I love practicing sports, not everything is coding.
 
 ### 👨‍💻 Languages and Tools:
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
-
-Modificar
+[HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+[CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
+[JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+[Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+[Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
+[Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+[GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+[Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
+!Modificar
 ### 🛠️ Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
