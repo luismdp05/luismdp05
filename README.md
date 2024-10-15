@@ -1,7 +1,7 @@
 ### Hi there 👋👋 
 ### I'm Luis Miguel
-Welcome to my Github page! I am a Computer Science Engineer💻
-### 👨‍💻 Languages and Tools:
+Welcome to my GitHub profile! I'm a passionate Computer Science Engineer 💻 with expertise in web development, enterprise software solutions, networking, and IT systems administration.
+## 🛠️ Languages and Tools:
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
@@ -12,7 +12,10 @@ Welcome to my Github page! I am a Computer Science Engineer💻
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
 ![Odoo](https://img.shields.io/badge/-Odoo-604058?style=flat&logo=odoo)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)
+![Linux](https://img.shields.io/badge/Linux-FF6600?style=flat&logo=linux)
+![Networking](https://img.shields.io/badge/Networking-black?style=flat-square&logo=cisco)
 
+- ⚡ Fun fact: I love practicing sports, not everything is coding.
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
