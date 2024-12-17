@@ -62,4 +62,4 @@ Modificar
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/luismdp05)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luismdp05/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/luismdp05)
-[![Gmail](https://img.shields.io/badge/Gmail-white?style=flat&logo=gmail&logoColor=red)](mailto:ldominguezpiel@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-grey?style=flat&logo=gmail&logoColor=red)](mailto:ldominguezpiel@gmail.com)
